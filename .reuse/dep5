@@ -1,0 +1,9 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+
+Files: data/train_data/*.mat saved_weights/*.pt saved_weights/*.pth
+Copyright: 2024 Mitsubishi Electric Research Laboratories (MERL)
+License: AGPL-3.0-or-later
+
+Files: data/test_data/*.mat
+Copyright: 2020 Eindhoven University of Technology
+License: CC-BY-SA-4.0
